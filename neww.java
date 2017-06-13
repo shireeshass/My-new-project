@@ -1,6 +1,6 @@
 public class neww{
 public static void main(String[] args)
 {
-  System.out.prinltn("new theme");
+  System.out.println("new theme");
 }
 }
